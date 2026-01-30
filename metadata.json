@@ -1,0 +1,7 @@
+{
+  "name": "TechMaster Genius - Siêu Hệ Thống Kiến Tạo Nội Dung Công Nghệ",
+  "description": "Nền tảng AI tối thượng dành cho các chuyên gia Tech, hỗ trợ tạo nội dung chuyên sâu từ SaaS Launch, API Docs đến Blockchain và System Design với chất lượng chuyên gia thực chiến.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
